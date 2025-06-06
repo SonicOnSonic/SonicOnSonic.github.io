@@ -57,7 +57,7 @@ Mentalities:
 
 You can check out below formulas
 
-$$\text{SNC Total Supply}$$ - $$\left[\sum_{t=0}^{\text{S Chain Uptime}\left(\infty\right)} f(\text{protocol rewards} \times t)$$ + $$\sum_{t=0}^{\infty} f(\text{trading profits} \times t)\right]$$
+$$\text{SNC Total Supply} - \left[\sum_{t=0}^{\text{S Chain Uptime}\left(\infty\right)} f(\text{protocol rewards} \times t) + \sum_{t=0}^{\infty} f(\text{trading profits} \times t)\right]$$
 
 
 
