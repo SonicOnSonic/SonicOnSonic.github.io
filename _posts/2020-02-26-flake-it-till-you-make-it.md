@@ -57,14 +57,15 @@ Mentalities:
 
 You can check out below formulas
 
-$$\text{SNC Total Supply} - \left[\sum_{t=0}^{\text{S Chain Uptime}\left(\infty\right)} f(\text{protocol rewards} \times t) + \sum_{t=0}^{\infty} f(\text{trading profits} \times t)\right]$$
+\[ \text{SNC Total Supply} - \left[ \sum_{t=0}^{\text{S Chain Uptime}(\infty)} f(\text{protocol rewards} \times t) + \sum_{t=0}^{\infty} f(\text{trading profits} \times t) \right] \]
+
 
 
 
 I hope you understand what this formula means. Since remaining supply will always decrease, price of $SNC will go up.
 as you may see from below formula when we decrease remaining supply, price goes up.
 
-$$Price = \frac{Market Cap}{Remaining Supply}$$
+\[ \text{Price} = \frac{\text{Market Cap}}{\text{Remaining Supply}} \]
 
 
 
