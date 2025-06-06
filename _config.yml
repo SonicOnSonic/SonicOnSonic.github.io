@@ -70,7 +70,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: LinuxNA
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -97,6 +97,7 @@ share-links-active:
   twitter: true
   discord: true
   github: true
+  telegram: true
 #  facebook: true
 #  linkedin: true
 #  vk: false
