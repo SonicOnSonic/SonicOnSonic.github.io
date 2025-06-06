@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-#title:
+title: Buy 
 
 # Your name to show in the footer
 author: Essency
@@ -20,7 +20,7 @@ author: Essency
 ###############################################
 
 navbar-links:
-  Buy : "https://www.sonicx.fun/token/0x5384c5fd2ec53e5b1f0f12049dd148e063afcb35"
+  Title : "https://www.sonicx.fun/token/0x5384c5fd2ec53e5b1f0f12049dd148e063afcb35"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
