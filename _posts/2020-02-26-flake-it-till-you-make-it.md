@@ -43,7 +43,7 @@ rewards which are received via these sources are in use to buy back & burn $SNC 
 Currently, this mechanism is not fully autonomous and still requires a server to run, and sometimes dev intervention. However, I contacted with Rabby Wallet team. Requested a feature which they also found logical. If this feature will be deployed, then $SNC buy back & burn mechanism will be fully autonomous and independent. Even if dev gets in coma, no worries. It will work as long as $S chain is up and Bitcoin is alive. 
 
 **Below you can see the mechanism behind $SNC**
-![Burn](assets/img/3-SNC_burn_scheme.png)
+![Burn](assets/img/3_SNC_burn_scheme.png)
 
 
 
