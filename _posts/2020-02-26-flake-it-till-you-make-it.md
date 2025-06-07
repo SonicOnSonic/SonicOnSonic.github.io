@@ -34,8 +34,8 @@ Roughly, $SNC is crypto version of that.
 ### Income Methods : 
 
 **1-** I put some amount of money (which I totally erased and forgot from my life) to a lot of $S protocols and dApps to earn passively.
-**2-** Coded a trading strategy on TradingView, connected that to Binance via API Signals. Which trades Bitcoin. 
-**3-** Will be proposed to holders' decision after launch...
+\n**2-** Coded a trading strategy on TradingView, connected that to Binance via API Signals. Which trades Bitcoin. 
+\n**3-** Will be proposed to holders' decision after launch...
 
 rewards which are received via these sources are in use to buy back & burn $SNC autonomously.
 **You don't need to chase KOLs, hype, cults, communities, raids or whatever you call. $SNC works for you while you spend no effort.**
