@@ -16,7 +16,7 @@ author: cey.sonic
 
 No matter what they do. Simply because they only depend on hype, community, pump and dump. 
 So, as a profitable algo trader, I thought why I just don't create a memecoin that doesn't depend on anything, anyone. 
-Logic was simple but hard to achieve, a memecoin that doesn't get flatlined. It shouldn't depend on its community, even own developer.
+Logic was simple but hard to achieve, a memecoin that doesn't get flatlined. It shouldn't depend on its community, KOLs, its own developer.
 
 **As you can see below, all Gen1 memecoins shared same destiny.**
 
