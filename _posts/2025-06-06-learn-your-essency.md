@@ -121,7 +121,7 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 
 ### Relief Fund Airdrops
 Let's assume you lost money while trading SNC. Even if you know by time buy back & burn mechanism will push it up, you still want your money back right now.
-Some of profits will be directed to relieve fund, which will be used for traders who lost money while trading SNC.
+Some of profits will be directed to relief fund, which will be used for traders who lost money while trading SNC.
 For security, this fund only will be directed to traders whose loss is visible on dexscreener, and will be sent to exact wallet only. Due to risk of impersonating as trader in loss, and asking money to different address.
 If you got me, I got you.
 Of course this airdrops can't cover everyone in loss, atleast while profitable holders are happy, SNC will try to relieve some of holders which got loss. Transparently with sharing txns. 
