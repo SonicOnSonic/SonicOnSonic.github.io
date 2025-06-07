@@ -222,11 +222,12 @@ I will go 10 steps to who comes 1 step towards me.
 {: .box-success}
 Well, you can create 2nd wallet for trading tokens. You can deposit very little amount of $S and try that out, without any hesitation.
 
-
-
 ---
 
 
+
+
+---
 
 # Most Professional Whatpaper
 
