@@ -11,6 +11,7 @@ mathjax: true
 author: cey.sonic
 ---
 
+{: .box-error}
 ### I've seen Gen1 memecoins fall. 
 
 No matter what they do. Simply because they only depend on hype, community, pump and dump. 
@@ -126,5 +127,5 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 | Website | 1 | Done |
 | Dexscreener | 2 | After Launch |
 | SNC Lite Assistant | 3 | After Launch |
-| Coingecko | 3 | After Launch |
-| Coinmarketcap | 4 | After Launch |
+| Coingecko | 4 | After Launch |
+| Coinmarketcap | 5 | After Launch |
