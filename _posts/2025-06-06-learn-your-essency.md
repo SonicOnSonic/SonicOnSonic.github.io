@@ -98,7 +98,24 @@ You can check below.
 ![call3](/assets/img/call3.png)
 
 If it doesn't impress you, I don't know what else will.
-Indicator mostly developed for Bitcoin, works fine on indices, it works on other commoditiy, forex markets as well but with less given directions and calls.  
+Indicator mostly developed for Bitcoin, fine on indices, it works on other commoditiy, forex markets as well but with less given directions and calls.  
+
+**But how it detects calls ?**
+Well it doesn't surely detect whales since CEXs don't share volume or order data.
+But there is a way to potentially catch smart money.
+I'll not give TA lesson here but shortly:
+There are 2 traders in market. 1 passive traders who put limit order, 2 active traders who put market orders. 
+Normal volume calculates all trades, meanwhile cumulative volume delta only calculates market orders. 
+
+Codes work as follow: 
+higher volume than usual average + higher price volatility than usual change + candle close is green + cumulative volume delta is red
+vice versa
+
+So what to understand from here? 
+volume is high, it means a lot of trades are going on, CVD is red which means there were more market sellers than market buyer volume but then how candle close is green ???
+If CVD is red but candle is green, this means big limit orders were absorbing those market sellers. Therefore, even tho market buyers had less volume, they were able to push candle to green.
+
+We see this type of behavior when smart money catches or absorbs orders of retail traders.
 
 
 
