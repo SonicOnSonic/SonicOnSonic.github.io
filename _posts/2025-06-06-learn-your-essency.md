@@ -191,7 +191,7 @@ However, no worries about trade bot because it also has income from DeFi rewards
 
 {: .box-success}
 To reach this point, there is long way to go. According to estimate calculations this would happen once it passes 3M marketcap, however I still have plan for it.
-If we see this mechanism effecting price less and less, 15% of profits from Income sources will be re-used to grow its capital by itself Therefore increasing its incomes.
+If we see this mechanism effecting price less and less, 15% of profits from Income sources will be re-used to grow its capital by itself. Therefore increasing its incomes.
 
 
 
