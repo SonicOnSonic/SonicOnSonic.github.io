@@ -120,8 +120,9 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 
 
 ## Roadmap:
+
 | Plan | Step | Process |
-| :------------- |:- | :------------ |
+| :------------- |:-- | :------------ |
 | Website | 1 | Done |
 | Dexscreener | 2 | After Launch |
 | Coingecko | 3 | After Launch |
