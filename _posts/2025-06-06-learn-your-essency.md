@@ -210,7 +210,7 @@ You will always be able to reach me.
 5- What if I lose money trading SNC?
 
 {: .box-success}
-If you got me, I got you. Will create a relieve fund from incomes to cover losses of some traders atleast. 
+If you got me, I got you. Will create a relief fund from incomes to cover losses of some traders atleast. That profits will be airdropped to traders in loss.
 I will go 10 steps to who comes 1 step towards me. 
 
 
