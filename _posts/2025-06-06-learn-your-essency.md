@@ -150,10 +150,10 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 
 
 {: .box-error}
-# FAQ
+# FAQs
 
 {: .box-warning}
-If you are profitable algo trader why bother to earn from a coin, why you just don't use it for yourself? 
+1- If you are profitable algo trader why bother to earn from a coin, why you just don't use it for yourself? 
 
 {: .box-success}
 I do use a lot of different bots for myself for a lot of different markets. Just wanted make a difference. Since, I use algorithms to trade and don't execute my trades by myself, I had plenty of free time. Decided to level up memecoins, and enjoy with $S community. As I previously mentioned about terrarium experiment. Wanted to do one and just have fun 
