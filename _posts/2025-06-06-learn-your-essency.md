@@ -95,7 +95,7 @@ You can check below.
 
 ![call2](/assets/img/call2.jpg)
 
-![call3](/assets/img/call3.jpg)
+![call3](/assets/img/call3.png)
 
 If it doesn't impress you, I don't know what else will.
 
