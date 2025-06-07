@@ -82,5 +82,28 @@ as you may see from below formula when we decrease remaining supply, price goes 
 $$\text{Price} = \frac{\text{Market Cap}}{\text{Remaining Supply}}$$
 
 
+That's not all. Once $SNC Launches, I'll publish $SNC Lite Assistant on TradingView for free.
+Trading can be most lonely job, therefore this assistant will lead you about market structure. If its ranging, trending up or trending down.
+Sometimes it throws phrases.
+Also most important, it will warn you about potential whale activity or increasing volume via calls.
+These alone doesn't mean buy/sell signals, however if you are able to support it with your TA, surely it will boost your trading edge and R:R.
+You can check below.
+
+## $SNC Lite Assistant
+
+![call1](/assets/img/call1.jpg)
+
+![call2](/assets/img/call2.jpg)
+
+![call3](/assets/img/call3.jpg)
+
+If it doesn't impress you, I don't know what else will.
 
 
+##Roadmap:
+| Plan | Step | Process |
+| :------ |:--- | :--- |
+| Website | 1 | Done |
+| Dexscreener | 2 | After Launch |
+| Coingecko | 3 | After Launch |
+| Coinmarketcap | 4 | After Launch |
