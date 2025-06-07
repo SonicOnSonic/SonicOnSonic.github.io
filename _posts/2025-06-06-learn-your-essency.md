@@ -180,8 +180,8 @@ Backtests for last 3 years showed that it would averagely perform with 3-4% prof
 However, we use 3x leverage on SNC Trade Bot, which technically means it can lose 18% of its capital in a row.
 Also added a safety mechanism. So, capital doesn't decrease. If it doesn't increase balance for the month, it will not withdraw any money via API but will let trade bot turn back to its main capital.
 Past performance is not guarantee of future performance, because markets always change. 
-If it becomes unprofitable, I’ll have to optimize its strategy and should do backtests/forwardtests as well. Once I see its profitable again, I would add another capital which I erased from my life and investing in project-meme budget.
-However, no worries about trade bot because it also has income from DeFi rewards on S dApps
+If it becomes unprofitable, I’ll have to optimize its strategy and should do backtests/forwardtests as well. Once I see its profitable again, I would add another capital which I erased from my life + adding capital from other rewards and investing back in self-sufficient project-meme budget.
+However, no worries about trade bot because it also has income from DeFi rewards on $S dApps, and soon it will have 3rd way of income.
 
 
 
