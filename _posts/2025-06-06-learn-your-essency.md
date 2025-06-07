@@ -125,5 +125,6 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 | :------------- |:-- | :------------ |
 | Website | 1 | Done |
 | Dexscreener | 2 | After Launch |
+| SNC Lite Assistant | 3 | After Launch |
 | Coingecko | 3 | After Launch |
 | Coinmarketcap | 4 | After Launch |
