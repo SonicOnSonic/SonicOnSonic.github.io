@@ -86,7 +86,7 @@ $$\text{Price} = \frac{\text{Market Cap}}{\text{Remaining Supply}}$$
 That's not all. Once $SNC Launches, I'll publish $SNC Lite Assistant on TradingView for free.
 Trading can be most lonely job, therefore this assistant will lead you about market structure. If its ranging, trending up or trending down.
 Sometimes it throws phrases.
-Also most important, it will warn you about potential whale activity or increasing volume via calls.
+Also most importantly, it will warn you about potential whale activity or increasing volume via calls.
 These alone doesn't mean buy/sell signals, however if you are able to support it with your TA, surely it will boost your trading edge and R:R.
 You can check below.
 
