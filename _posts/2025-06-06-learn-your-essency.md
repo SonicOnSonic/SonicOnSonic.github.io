@@ -132,13 +132,12 @@ Of course this airdrops can't cover everyone in loss, atleast while profitable h
 | Plan | Step | Process |
 | :------------- |:-- | :------------ |
 | Website | 1 | Done |
-| DEV Burns 4% of His own Supply | 2 | Right After Launch |
-| SNC Mechanism Starts Burning Supply | 3 | Right After Launch |
-| Dexscreener | 4 | After Launch |
-| SNC Lite Assistant | 5 | After Launch |
-| Coingecko | 6 | After Launch |
-| Coinmarketcap | 7 | After Launch |
-| Relief fund airdrops | 8 | After Launch |
+| SNC Mechanism Starts Burning Supply | 2 | Right After Launch |
+| Dexscreener | 3 | Right After Launch |
+| SNC Lite Assistant | 4 | After Launch |
+| Coingecko | 5 | After Launch |
+| Coinmarketcap | 6 | After Launch |
+| Relief fund airdrops | 7 | After Launch |
 
 
 
