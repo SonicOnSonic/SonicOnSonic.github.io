@@ -6,7 +6,7 @@ date: 2025-06-06
 cover-img: /assets/img/SNC-cover.jpg
 thumbnail-img: /assets/img/SNC-smart.jpg
 share-img: /assets/img/SNC-cover.jpg
-tags: [Gen2 memecoin, degen, DeFi, TradFi, Memecoin]
+tags: [Gen2 Memecoin, DeFi, TradFi]
 mathjax: true
 author: cey.sonic
 ---
