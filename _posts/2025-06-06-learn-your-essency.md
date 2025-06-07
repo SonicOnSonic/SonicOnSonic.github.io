@@ -24,7 +24,7 @@ Logic was simple but hard to achieve, a memecoin that doesn't get flatlined. It 
 
 
 
-To change the twisted game of memecoins, I decided to build a self-sufficient Gen2 memecoin. 
+To change the **twisted game** of memecoins, I decided to build a self-sufficient Gen2 memecoin. 
 As you may know, serious projects start with a budget. To be used on team, marketing, costs of VMs etc.
 While memecoins launch with almost $0 cost. 
 
