@@ -126,10 +126,12 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 | Plan | Step | Process |
 | :------------- |:-- | :------------ |
 | Website | 1 | Done |
-| Dexscreener | 2 | After Launch |
-| SNC Lite Assistant | 3 | After Launch |
-| Coingecko | 4 | After Launch |
-| Coinmarketcap | 5 | After Launch |
+| DEV Burns 4% of His own Supply | 2 | Right After Launch |
+| SNC Mechanism Starts Burning Supply | 3 | Right After Launch |
+| Dexscreener | 4 | After Launch |
+| SNC Lite Assistant | 5 | After Launch |
+| Coingecko | 6 | After Launch |
+| Coinmarketcap | 7 | After Launch |
 
 
 
