@@ -98,9 +98,11 @@ You can check below.
 ![call3](/assets/img/call3.png)
 
 If it doesn't impress you, I don't know what else will.
+Indicator mostly developed for Bitcoin, works fine on indices, it works on other commoditiy, forex markets as well but with less given directions and calls.  
 
 
-##Roadmap:
+
+## Roadmap:
 | Plan | Step | Process |
 | :------ |:--- | :--- |
 | Website | 1 | Done |
