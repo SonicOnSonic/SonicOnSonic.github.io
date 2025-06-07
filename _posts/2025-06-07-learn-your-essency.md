@@ -17,6 +17,7 @@ So, as a profitable algo trader, I thought why I just don't create a memecoin th
 Logic was simple but hard to achieve, a memecoin that doesn't get flatlined. It shouldn't depend on its community, even own developer.
 
 **As you can see below, all Gen1 memecoins shared same destiny.**
+
 ![Lifecycle](/assets/img/1_lifecycle_of_memes.png)
 
 
@@ -42,8 +43,12 @@ Roughly, $SNC is crypto version of that.
 rewards which are received via these sources are in use to buy back & burn $SNC autonomously.
 **You don't need to chase KOLs, hype, cults, communities, raids or whatever you call. $SNC works for you while you spend no effort.**
 
+
 {: .box-success}
 Currently, this mechanism is not fully autonomous and still requires a server to run, and sometimes dev intervention. However, I contacted with Rabby Wallet team. Requested a feature which they also found logical. If this feature will be deployed, then $SNC buy back & burn mechanism will be fully autonomous and independent. Even if dev gets in coma, no worries. It will work as long as $S chain is up and Bitcoin is alive. 
+
+
+
 
 
 
