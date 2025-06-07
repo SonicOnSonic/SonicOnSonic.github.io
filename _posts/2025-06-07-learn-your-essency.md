@@ -2,6 +2,7 @@
 layout: post
 title: Learn Your Essency
 subtitle: I've seen Empires Fall
+date: 2025-06-07
 cover-img: /assets/img/SNC-cover.jpg
 thumbnail-img: /assets/img/SNC-smart.jpg
 share-img: /assets/img/SNC-cover.jpg
