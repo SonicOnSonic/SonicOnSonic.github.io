@@ -127,7 +127,7 @@ If you got me, I got you.
 Of course this airdrops can't cover everyone in loss, atleast while profitable holders are happy, SNC will try to relieve some of holders which got loss. Transparently with sharing txns. 
 
 
-## Roadmap:
+## Future Plans:
 
 | Plan | Step | Process |
 | :------------- |:-- | :------------ |
