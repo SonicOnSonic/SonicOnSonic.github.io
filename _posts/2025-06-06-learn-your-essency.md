@@ -176,7 +176,7 @@ I do use a lot of different bots for myself for a lot of different markets. Just
 {: .box-success}
 GREAT QUESTION ! Thats what I expect people to come with.
 When market conditions change (in volatile or too slow conditions) it may stop performing profitable for a month. 
-Backtests for last 3 years showed that it would averagely perform with 3-4% profit. And maximum equity drawdown seems 6% (If would use 20x leverage it could get liquidated)
+Backtests for last 3 years showed that it would averagely perform with 3-4% profit per month. And maximum equity drawdown seems 6% (If would use 20x leverage it could get liquidated)
 However, we use 3x leverage on SNC Trade Bot, which technically means it can lose 18% of its capital in a row.
 Also added a safety mechanism. So, capital doesn't decrease. If it doesn't increase balance for the month, it will not withdraw any money via API but will let trade bot turn back to its main capital.
 Past performance is not guarantee of future performance, because markets always change. 
