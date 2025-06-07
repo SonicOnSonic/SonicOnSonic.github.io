@@ -129,3 +129,19 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 | SNC Lite Assistant | 3 | After Launch |
 | Coingecko | 4 | After Launch |
 | Coinmarketcap | 5 | After Launch |
+
+
+
+##How To Buy It
+
+**1-** Download Rabby Wallet
+
+**2-** Put some $S in it 
+
+**3-** Go to sonicx.fun 
+
+**4-** Connect Wallet on Sonic Network
+
+**5-** Swap your $S to $SNC
+
+**6-** Chill and let the SNC do work for you
