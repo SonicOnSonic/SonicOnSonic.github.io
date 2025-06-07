@@ -119,6 +119,12 @@ If CVD is red but candle is green, this means big limit orders were absorbing th
 
 We see this type of behavior when smart money catches or absorbs orders of retail traders.
 
+### Relief Fund Airdrops
+Let's assume you lost money while trading SNC. Even if you know by time buy back & burn mechanism will push it up, you still want your money back right now.
+Some of profits will be directed to relieve fund, which will be used for traders who lost money while trading SNC.
+For security, this fund only will be directed to traders whose loss is visible on dexscreener, and will be sent to exact wallet only. Due to risk of impersonating as trader in loss, and asking money to different address.
+If you got me, I got you.
+Of course this airdrops can't cover everyone in loss, atleast while profitable holders are happy, SNC will try to relieve some of holders which got loss. Transparently with sharing txns. 
 
 
 ## Roadmap:
@@ -132,6 +138,7 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 | SNC Lite Assistant | 5 | After Launch |
 | Coingecko | 6 | After Launch |
 | Coinmarketcap | 7 | After Launch |
+| Relief fund airdrops | 8 | After Launch |
 
 
 
@@ -158,4 +165,59 @@ We see this type of behavior when smart money catches or absorbs orders of retai
 1- If you are profitable algo trader why bother to earn from a coin, why you just don't use it for yourself? 
 
 {: .box-success}
-I do use a lot of different bots for myself for a lot of different markets. Just wanted make a difference. Since, I use algorithms to trade and don't execute my trades by myself, I had plenty of free time. Decided to level up memecoins, and enjoy with $S community. As I previously mentioned about terrarium experiment. Wanted to do one and just have fun 
+I do use a lot of different bots for myself for a lot of different markets. Just wanted make a difference. Since, I use algorithms to trade and don't execute my trades by myself, I had plenty of free time. Decided to level up memecoins, and enjoy with $S community. As I previously mentioned about terrarium experiment. Wanted to do one and just have fun
+
+
+
+
+{: .box-warning}
+2- What happens if your trade bot loses your trading capital? Then you no longer have profits generated to buy back & Burn SNC. 
+
+{: .box-success}
+GREAT QUESTION ! Thats what I expect people to come with.
+When market conditions change (in volatile or too slow conditions) it may stop performing profitable for a month. 
+Backtests for last 3 years showed that it would averagely perform with 3-4% profit. And maximum equity drawdown seems 6% (If would use 20x leverage it could get liquidated)
+However, we use 3x leverage on SNC Trade Bot, which technically means it can lose 18% of its capital in a row.
+Also added a safety mechanism. So, capital doesn't decrease. If it doesn't increase balance for the month, it will not withdraw any money via API but will let trade bot turn back to its main capital.
+Past performance is not guarantee of future performance, because markets always change. 
+If it becomes unprofitable, I’ll have to optimize its strategy and should do backtests/forwardtests as well. Once I see its profitable again, I would add another capital which I erased from my life and investing in project-meme budget.
+However, no worries about trade bot because it also has income from DeFi rewards on S dApps
+
+
+
+
+{: .box-warning}
+3- If marketcap reaches to a point where buy back & burn mechanism becomes less effective?
+
+{: .box-success}
+To reach this point, there is long way to go. According to estimate calculations this would happen once it passes 3M marketcap, however I still have plan for it.
+If we see this mechanism effecting price less and less, 15% of profits from Income sources will be re-used to grow its capital by itself Therefore increasing its incomes.
+
+
+
+
+{: .box-warning}
+4- Why should I trust you?
+
+{: .box-success}
+Because, I will be totally transparent and always co-operative. Even if it reaches point where we can't dream, instead of getting cocky I'll stay humble and always will answer any questions in your mind.
+You will always be able to reach me. 
+
+
+
+
+{: .box-warning}
+5- What if I lose money trading SNC?
+
+{: .box-success}
+If you got me, I got you. Will create a relieve fund from incomes to cover losses of some traders atleast. 
+I will go 10 steps to who comes 1 step towards me. 
+
+
+
+
+{: .box-warning}
+6- I'm not sure to connect my wallet to sonicx.fun
+
+{: .box-success}
+Well, you can create 2nd wallet for trading tokens. You can deposit very little amount of $S and try that out, without any hesitation.
