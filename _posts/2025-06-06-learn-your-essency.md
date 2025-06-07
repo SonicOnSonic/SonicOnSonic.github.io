@@ -42,7 +42,7 @@ Roughly, $SNC is crypto version of that. Its only on Sonic $S chain. Its built o
 
 **3-** Will be proposed to holders' decision after launch...
 
-rewards which are received via these sources are in use to buy back & burn $SNC autonomously.
+rewards which are received via these sources are in use to buy back & burn $SNC autonomously by wallet which ends with (...ddaa7)
 **You don't need to chase KOLs, hype, cults, communities, raids or whatever you call. $SNC works for you while you spend no effort.**
 
 
@@ -171,7 +171,7 @@ I do use a lot of different bots for myself for a lot of different markets. Just
 
 
 {: .box-warning}
-2- What happens if your trade bot loses your trading capital? Then you no longer have profits generated to buy back & Burn SNC. 
+2- What happens if your trade bot loses its trading capital? Then it no longer has profits generated to buy back & Burn SNC. 
 
 {: .box-success}
 GREAT QUESTION ! Thats what I expect people to come with.
