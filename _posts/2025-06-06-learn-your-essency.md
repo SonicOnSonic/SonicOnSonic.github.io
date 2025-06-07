@@ -224,6 +224,10 @@ Well, you can create 2nd wallet for trading tokens. You can deposit very little 
 
 
 
+---
+
+
+
 # Most Professional Whatpaper
 
 ![whut](/assets/img/7-whutpaper.png)
