@@ -40,10 +40,11 @@ Roughly, $SNC is crypto version of that. Its only on Sonic $S chain. Its built o
 
 **2-** Bitcoin Trade Bot 🤖  : Coded a trading strategy on TradingView, connected that to Binance via API Signals. Which trades Bitcoin autonomously. 
 
-**3-** USA 🇺🇸 Dividen ETFs and Stocks : This method can't be autonomous
+**3-** USA 🇺🇸 Dividend ETFs and Stocks : This method can't be autonomous
 
 Rewards from first 2 sources which are received will be in use to buy back & burn $SNC autonomously by wallet which ends with (...ddaa7)
-While 3rd option will need mechanic intervention, some part of profits from first 2 sources will be used to buy dividen ETFs & Stocks then dividens received from these will be in use to buy back and burn SNC.
+While 3rd option will need mechanic intervention, some part of profits from first 2 sources will be used to buy dividend ETFs & Stocks then dividends received from these will be in use to buy back and burn SNC.
+
 **You don't need to chase KOLs, hype, cults, communities, raids or whatever you call. $SNC works for you while you spend no effort.**
 
 
@@ -133,12 +134,11 @@ Of course this airdrops can't cover everyone in loss, atleast while profitable h
 | Plan | Step | Process |
 | :------------- |:-- | :------------ |
 | Website | 1 | Done |
-| SNC Mechanism Starts Burning Supply | 2 | Right After Launch |
-| Dexscreener | 3 | Right After Launch |
+| SNC Mechanism Starts Burning Supply | 2 | Started |
+| Dexscreener | 3 | Done |
 | SNC Lite Assistant | 4 | After Launch |
 | Coingecko | 5 | After Launch |
-| Coinmarketcap | 6 | After Launch |
-| Relief fund airdrops | 7 | After Launch |
+| Relief fund airdrops | 6 | After Launch |
 
 
 
