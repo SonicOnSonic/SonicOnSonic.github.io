@@ -36,13 +36,14 @@ Roughly, $SNC is crypto version of that. Its only on Sonic $S chain. Its built o
 
 ### Income Methods : 
 
-**1-** I put some amount of money (which I totally erased and forgot from my life) to a lot of $S protocols and dApps to earn passively.
+**1-** $S Chain DeFi Rewards 💵 : I put some amount of money (which I totally erased and forgot from my life) to a lot of $S protocols and dApps to earn passively.
 
-**2-** Coded a trading strategy on TradingView, connected that to Binance via API Signals. Which trades Bitcoin. 
+**2-** Bitcoin Trade Bot 🤖  : Coded a trading strategy on TradingView, connected that to Binance via API Signals. Which trades Bitcoin autonomously. 
 
-**3-** Will be proposed to holders' decision after launch...
+**3-** USA 🇺🇸 Dividen ETFs and Stocks : This method can't be autonomous
 
-rewards which are received via these sources are in use to buy back & burn $SNC autonomously by wallet which ends with (...ddaa7)
+Rewards from first 2 sources which are received will be in use to buy back & burn $SNC autonomously by wallet which ends with (...ddaa7)
+While 3rd option will need mechanic intervention.
 **You don't need to chase KOLs, hype, cults, communities, raids or whatever you call. $SNC works for you while you spend no effort.**
 
 
