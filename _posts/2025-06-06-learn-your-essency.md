@@ -147,13 +147,9 @@ Of course this airdrops can't cover everyone in loss, atleast while profitable h
 
 **2-** Put some $S in it 
 
-**3-** Go to sonicx.fun 
+**3-** Swap for $SNC CA: 0x5384c5fd2ec53E5b1f0F12049DD148e063afcb35
 
-**4-** Connect Wallet on Sonic Network
-
-**5-** Swap your $S to $SNC
-
-**6-** Chill and let the SNC do work for you
+**4-** Chill and let the SNC work for you
 
 
 
