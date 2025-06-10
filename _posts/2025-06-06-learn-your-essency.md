@@ -43,7 +43,7 @@ Roughly, $SNC is crypto version of that. Its only on Sonic $S chain. Its built o
 **3-** USA 🇺🇸 Dividen ETFs and Stocks : This method can't be autonomous
 
 Rewards from first 2 sources which are received will be in use to buy back & burn $SNC autonomously by wallet which ends with (...ddaa7)
-While 3rd option will need mechanic intervention, some of profits from first 2 sources will be used to buy dividen ETFs and Stocks and dividens received from them will be in use to buy back and burn SNC.
+While 3rd option will need mechanic intervention, some part of profits from first 2 sources will be used to buy dividen ETFs & Stocks then dividens received from these will be in use to buy back and burn SNC.
 **You don't need to chase KOLs, hype, cults, communities, raids or whatever you call. $SNC works for you while you spend no effort.**
 
 
