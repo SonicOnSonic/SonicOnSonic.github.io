@@ -136,9 +136,10 @@ Of course this airdrops can't cover everyone in loss, atleast while profitable h
 | Website | 1 | Done |
 | SNC Mechanism Starts Burning Supply | 2 | Started |
 | Dexscreener | 3 | Done |
-| SNC Lite Assistant | 4 | After Launch |
-| Coingecko | 5 | After Launch |
-| Relief fund airdrops | 6 | After Launch |
+| Gecko Terminal | 4 | Done |
+| SNC Lite Assistant on TradingView | 5 | Done |
+| Relief fund airdrops | 6 | In queue |
+| Coingecko | 7 | In queue |
 
 
 
