@@ -32,7 +32,7 @@ While memecoins launch with almost $0 cost.
 **Note:** $SNC is neither of them, or maybe both. 
 
 You heard plant Terrarium experiment right? Where David Latimer put some soil, fertilizer, plant and water. Where ecosystem grewup by itself.
-Roughly, $SNC is crypto version of that. Its only on Sonic $S chain. Its built on $S because it best and fastest tech out there.
+Roughly, $SNC is crypto version of that. Its only on Sonic $S chain. Its built on $S chain because it is the best and fastest tech out there.
 
 ### Income Methods : 
 
