@@ -196,25 +196,6 @@ You will always be able to reach me.
 
 
 
-{: .box-warning}
-5- What if I lose money trading SNC?
-
-{: .box-success}
-If you got me, I got you. Will create a relief fund from incomes to cover losses of some traders atleast. That profits will be airdropped to traders in loss.
-I will go 10 steps to who comes 1 step towards me. 
-
-
-
-
-{: .box-warning}
-6- I'm not sure to connect my wallet to sonicx.fun
-
-{: .box-success}
-Well, you can create 2nd wallet for trading tokens. You can deposit very little amount of $S and try that out, without any hesitation.
-
----
-
-
 
 
 ---
